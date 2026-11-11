@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+*.pem
+*.key
+*.csv
+credentials
+.aws/
+!docs/tuning/*.csv
